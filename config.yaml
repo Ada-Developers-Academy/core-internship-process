@@ -1,0 +1,19 @@
+---
+Standards:
+
+  -
+    Title: Internship Process
+    Description: One stop shop for all things internship
+    UID: 92b1dbed-3f9a-476d-87ae-855297f26ecd    
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: cb20e392-9f72-4402-98dc-5a18632082f5  
+        Path: /timeline/overview.md 
+        
+        Type: Lesson
+        UID: 555edb6a-e724-4fc1-9f0e-9493956458ca  
+        Path: /companyengagement/overview.md 
+  
