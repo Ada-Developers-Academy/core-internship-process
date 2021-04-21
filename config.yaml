@@ -2,7 +2,7 @@
 Standards:
 
   -
-    Title: Internship Timeline & Companies
+    Title: Timeline & Companies
     Description: One stop shop for all things internship
     UID: 92b1dbed-3f9a-476d-87ae-855297f26ecd    
     SuccessCriteria:
@@ -13,8 +13,8 @@ Standards:
         UID: cb20e392-9f72-4402-98dc-5a18632082f5  
         Path: /timeline.md 
   -
-    Title: Company Engagement Overview
-    Description: Slides & recording
+    Title: Company Engagement
+    Description: Overview presentation
     UID: f9e48962-f37c-4c66-b005-41e59a9cb3ff   
     SuccessCriteria:
       - success criteria
