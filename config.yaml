@@ -22,4 +22,26 @@ Standards:
       -
         Type: Lesson
         UID: 9f32e1d7-4cda-4955-a789-79c36d9be1b5   
-        Path: /companyengagement.md 
+        Path: /company-engagement/overview.md 
+
+  -
+    Title: Company Presentations
+    Description: Presentation recordings
+    UID: d6324a20-9309-4e37-93dd-61e1d3520da7    
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: f27621e4-37cb-4814-a593-049fd071de00    
+        Path: /company-engagement/rock-pres.md 
+
+      -
+        Type: Lesson
+        UID: b6e1431b-3bde-4d2a-96f8-22e818644d2f    
+        Path: /company-engagement/paper-pres.md 
+        
+      -
+        Type: Lesson
+        UID: 92c09f37-d935-418c-91c1-6b444edc3b0d    
+        Path: /company-engagement/scissors-pres.md 
