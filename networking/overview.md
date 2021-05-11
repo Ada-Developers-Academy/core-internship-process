@@ -27,7 +27,7 @@ You should create both your resume and bio as a markdown file that is a gist. Se
 
 ### Bio
 
-**Your bio should include:**
+**Your bio should be 70-200 words and include:**
 - Name
 - Pronouns
 - What you were doing before Ada?
