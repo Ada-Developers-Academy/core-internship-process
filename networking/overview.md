@@ -12,6 +12,8 @@ Slides from the presentation are [here](https://docs.google.com/presentation/d/1
 ## Getting to know a Company
 - Here is a [list of questions](https://docs.google.com/document/d/1-fFpHzi2YiRsgniwDcNGTAnDSc44f_OFLfdg5fRfsQw/edit?usp=sharing) to get to know a company during Company Presentations. 
 
+## LinkedIn How To
+- [Here](https://www.loom.com/share/0d4451f440b84b9f8ac86a0742cdca7f) is a video on how to set up and navigate LinkedIn.
 
 ## Resumes & Bios
 
