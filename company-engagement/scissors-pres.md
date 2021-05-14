@@ -1,5 +1,7 @@
 # Scissors Company Presentations
 
+[Scissors Class Teams](https://docs.google.com/document/d/1cBSjgFg-R-nqK5hciX_Mktv3qFNqhkWoKefwiYu-AsQ/edit?usp=sharing)
+
 ## Amazon
 
 ## GoDaddy
