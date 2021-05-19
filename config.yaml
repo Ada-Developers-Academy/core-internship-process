@@ -2,58 +2,14 @@
 Standards:
 
   -
-    Title: Timeline & Companies
-    Description: One stop shop for all things internship
-    UID: 92b1dbed-3f9a-476d-87ae-855297f26ecd    
+    Title: Internship Process
+    Description: Introductory Material for Internship Process
+    UID: af46cafc-d756-47c9-bc2c-9a4515294cee    
     SuccessCriteria:
       - success criteria
     ContentFiles:
       -
         Type: Lesson
-        UID: cb20e392-9f72-4402-98dc-5a18632082f5  
-        Path: /timeline.md 
-  -
-    Title: Company Engagement
-    Description: Overview presentation
-    UID: f9e48962-f37c-4c66-b005-41e59a9cb3ff   
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 9f32e1d7-4cda-4955-a789-79c36d9be1b5   
-        Path: /company-engagement/overview.md 
- 
-  -
-    Title: Networking, resumes/bios
-    Description: Prepping for Company Engagement
-    UID: 94ec9ff3-94f9-4880-9a46-99a3cd15b809    
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 74ae4f13-243e-4945-82b4-fbbbbb00fca3   
-        Path: /networking/overview.md 
-
-  -
-    Title: Company Presentations
-    Description: Presentation recordings
-    UID: d6324a20-9309-4e37-93dd-61e1d3520da7    
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: f27621e4-37cb-4814-a593-049fd071de00    
-        Path: /company-engagement/rock-pres.md 
-
-      -
-        Type: Lesson
-        UID: b6e1431b-3bde-4d2a-96f8-22e818644d2f    
-        Path: /company-engagement/paper-pres.md 
-        
-      -
-        Type: Lesson
-        UID: 92c09f37-d935-418c-91c1-6b444edc3b0d    
-        Path: /company-engagement/scissors-pres.md 
+        UID: 607d61e5-f162-4919-a5f4-45f93bad4f9f  
+        Path: /internship-process.md 
+  
