@@ -47,6 +47,6 @@ You should create both your resume and bio as a markdown file that is a gist. Se
 - May 17-28: Company Presentations are happening
   - During this time, we recomment reaching out to about **three** people who you're interested in connecting with!
 - May 28: We will send the preference form to list your preferences of teams to interview with
-- June 4: Resumes and bios are due
+- June 4: Resumes and bios are due [here](https://docs.google.com/spreadsheets/d/1YoTG0V69pXNNsSAotuwWcoaZ5IdifpNTSA_RA5PO9T4/edit?usp=sharing)
 - June 11: Preference form is due
 
