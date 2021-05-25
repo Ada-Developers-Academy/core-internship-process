@@ -11,6 +11,8 @@ _Not recorded_
 ## Curology
 [Slides](https://docs.google.com/presentation/d/1yC55aHDLHcV8cmnZQ0CnpZ7rHMw9B2g8lKHzapqdMPk/edit?usp=sharing)
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4c3aa152-1eb4-47d5-86a7-ad3301627963&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Indeed
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=da4aa188-5895-4c43-92e1-ad320140bc8f&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
