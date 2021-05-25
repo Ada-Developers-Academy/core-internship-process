@@ -16,6 +16,9 @@
 ## Indeed
 
 ## Microsoft
+[Slides](https://drive.google.com/file/d/1JKfvsTcJ2EsjEXiN_cZLLPmMjGd3xVOP/view?usp=sharing)
+
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=769fdcd9-e787-4aaa-8619-ad32017e8ede&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Oracle
 
