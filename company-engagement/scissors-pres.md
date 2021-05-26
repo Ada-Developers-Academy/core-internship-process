@@ -12,6 +12,20 @@ _Not recorded_
 
 ## Hulu
 
+Presenters:
+Billie Sue Chafins: https://www.linkedin.com/in/billiesue/ , billiesue.chafins@hulu.com
+Zane Teh: https://www.linkedin.com/in/zaneteh/ , zane.teh@hulu.com
+
+Living Room:
+Mike Slone: https://www.linkedin.com/in/mike-slone-276b286/
+Michaela Kim: https://www.linkedin.com/in/michaelakim/  , michaela.kim@hulu.com
+
+Ada alums: 
+Layla Bristol (Hulu Ada Graduate/Alum Intern 2019):  Layla.bristol@hulu.com
+Jillian Boshart (C5 Ada Alum but hired as FTE at Hulu): jillian.boshart@hulu.com
+Jessica Homet (C11 Hulu Ada Alum): jessica.homet@hulu.com https://www.linkedin.com/in/jessica-homet-76471085/
+
+
 ## Indeed
 [Indeed Teams](https://drive.google.com/file/d/1rcsx9PzssGWxgDHgnVLVmIDTfCD6Z1Cf/view?usp=sharing)
 
