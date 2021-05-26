@@ -29,6 +29,8 @@ Layla Bristol (Hulu Ada Graduate/Alum Intern 2019):  Layla.bristol@hulu.com
 Jillian Boshart (C5 Ada Alum but hired as FTE at Hulu): jillian.boshart@hulu.com
 Jessica Homet (C11 Hulu Ada Alum): jessica.homet@hulu.com https://www.linkedin.com/in/jessica-homet-76471085/
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=551ea3ab-c913-402b-8141-ad3401747b8a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Indeed
 [Indeed Teams](https://drive.google.com/file/d/1rcsx9PzssGWxgDHgnVLVmIDTfCD6Z1Cf/view?usp=sharing)
 
