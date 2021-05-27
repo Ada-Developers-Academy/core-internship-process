@@ -32,6 +32,8 @@ Jessica Homet (C11 Hulu Ada Alum): jessica.homet@hulu.com https://www.linkedin.c
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=da4aa188-5895-4c43-92e1-ad320140bc8f&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=aee88dc9-e958-4a44-bb91-ad35011c82e9&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Microsoft
 [Slides](https://drive.google.com/file/d/1JKfvsTcJ2EsjEXiN_cZLLPmMjGd3xVOP/view?usp=sharing)
 
