@@ -1,6 +1,8 @@
 # Interview Week Overview
 
-[Slides](https://docs.google.com/presentation/d/1bMguhTQwFaaL32qO8Nvo67fhkNH54XU63GiPi1GAw5Y/edit?usp=sharing)
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5c18fb09-9cab-4e12-a460-ad36015e0f0c&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+[Interview Week Overview Slides](https://docs.google.com/presentation/d/1bMguhTQwFaaL32qO8Nvo67fhkNH54XU63GiPi1GAw5Y/edit?usp=sharing)
 
 ## Due Dates:
 - June 4: Add your bio & resume as a GitHub gist [here](https://docs.google.com/spreadsheets/d/1YoTG0V69pXNNsSAotuwWcoaZ5IdifpNTSA_RA5PO9T4/edit#gid=0)
