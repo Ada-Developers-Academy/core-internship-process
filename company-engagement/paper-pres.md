@@ -59,3 +59,4 @@ Jessica Homet (C11 Hulu Ada Alum): jessica.homet@hulu.com https://www.linkedin.c
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=43f8f14a-0341-4bbc-ace0-ad3301589d54&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Zulily
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=57c3d76e-af9a-444a-b7dd-ad36014034c3&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
