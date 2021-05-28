@@ -57,3 +57,15 @@ Standards:
         Type: Lesson
         UID: 92c09f37-d935-418c-91c1-6b444edc3b0d    
         Path: /company-engagement/scissors-pres.md 
+        
+  -
+    Title: Interview Week
+    Description: Overview
+    UID: 9007aad6-4b21-4373-a640-7c2af4da92ae     
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 682636b7-fe22-40a0-bad2-e69cb0db573f     
+        Path: /interview-week/overview.md 
