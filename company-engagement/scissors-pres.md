@@ -6,6 +6,7 @@
 _Not recorded_
 
 ## GoDaddy
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ba79c92b-fee2-47fb-9000-ad360177d699&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ## Google
 _Not recorded_
