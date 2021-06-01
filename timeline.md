@@ -42,7 +42,8 @@
 - April 21: Introduction to the process and overview of Company Engagement! Slides and recording of this call below. 
 - May 10: Overview of networking with Rachel
 - May 28: Overview of Interview Week and mock interview presentation with Emma and Sarah
-- Early June: Bios, resumes, and mentorship & team preferences will be due! 
+- June 4: Bios and resumes due [here](https://docs.google.com/spreadsheets/d/1YoTG0V69pXNNsSAotuwWcoaZ5IdifpNTSA_RA5PO9T4/edit?usp=sharing)
+- June 11: Mentorship & preference survey due [here](https://form.jotform.com/211446193551150)
 - June 18: Emma will send out the Interview Week schedule
 - July 19-23: Interview Week
 - Week of 26: Internship matches announced
