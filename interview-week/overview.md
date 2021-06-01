@@ -6,7 +6,7 @@
 
 ## Due Dates:
 - June 4: Add your bio & resume as a GitHub gist [here](https://docs.google.com/spreadsheets/d/1YoTG0V69pXNNsSAotuwWcoaZ5IdifpNTSA_RA5PO9T4/edit#gid=0)
-- June 11: Submit mentorship style & preference form (going out 6/1)
+- June 11: [Submit mentorship style & preference form](https://form.jotform.com/211446193551150)
 
 ## Example Questions (will be shared with teams)
 
