@@ -23,3 +23,18 @@ Example Questions to Ask
 Example Questions NOT to Ask
 - Given a binary tree, mirror the tree. (Students learn a high level of ADTs, but do not work on specific implementations for every variation.)
 - What is the difference between an inner join and an outer join? (Students learn data modeling at an introductory level.)
+
+## Topics (shared with teams)
+
+- Python (loops, lists, dictionaries, sets)
+- Object Oriented Programming
+- SQL, from setting up a database through Inner Joins (Postgres)
+- Creating ERD Diagrams
+- Creating APIs with Flask
+- HTML/CSS
+  - CS Fundamentals
+  - Recursion
+  - Hash Tables
+  - Arrays, Sets
+  - Time/Space Complexity
+
