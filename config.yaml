@@ -74,3 +74,16 @@ Standards:
         Type: Lesson
         UID: ce0384ca-f6e4-4113-83b6-b063a076c8b2     
         Path: /interview-week/final-details.md 
+        
+  -
+    Title: Internship
+    Description: Overview
+    UID: 0fc6503c-22c2-446c-88a9-6d573db497c8      
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: d94f2bd0-d4fe-4f69-b35a-eb25fb50853c     
+        Path: /internship/internship-overview.md 
+ 
