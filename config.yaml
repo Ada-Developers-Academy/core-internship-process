@@ -1,6 +1,16 @@
 ---
 Standards:
-
+  -
+    Title: Overview of Mock Interviews
+    Description: "General information about the who, what, where, when for mock interviews"
+    UID: c59c4618-d53d-4838-b995-b9648895799b
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 70b7da3b-8a4d-4071-a468-44240776d2df
+        Path: /overview-of-mock-interviews/overview-of-mock-interviews.md
   -
     Title: Timeline & Companies
     Description: One stop shop for all things internship
